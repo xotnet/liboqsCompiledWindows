@@ -1,2 +1,2 @@
 # liboqsCompiledWindows
-OpenCryptoSecure (C lang) compiled from srcs https://github.com/open-quantum-safe/liboqs
+OpenQuantumSecure (C lang) compiled from srcs https://github.com/open-quantum-safe/liboqs
